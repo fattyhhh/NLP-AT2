@@ -1,9 +1,10 @@
 # Lyrics Generator using LSTM-based RNN model
 
-Contributor: Justin Qi
-             Tingwei He
-             Jie Sun
-             Yuquan Liew
+### Contributor: <p>
+Justin Qi <p>
+Tingwei He <p>
+Jie Sun <p>
+Yuquan Liew
 
 ## File Explanation 
 ### EDA.ipynb 
